@@ -1,3 +1,15 @@
+## Agentic AI Research System
+A simple Python tool that uses multiple AI agents to research topics automatically. One main agent breaks down your question, specialist agents find facts and check sources, and a final agent writes a professional report.
+
+### What It Does
+You ask a question (like "What is Agentic AI?")
+
+Agents work together to research and verify information
+
+You get a detailed report with sources and credibility ratings
+
+Example Output
+
 ## Agentic AI: A Research Overview
 
 ### 1. EXECUTIVE SUMMARY
@@ -44,3 +56,4 @@ Agentic AI, also known as AI agents, are goal-driven and collaborative, shifting
 **3.4 Future Trends and Potential Impacts**
 Agentic AI is expected to profoundly transform various sectors, moving beyond mere tool improvement to deeply integrate into and restructure business approaches [Provided Text, n.d.] [Quality Rating: A] [Synthesized from multiple industry sources].
 *   **Autonomous Decision-Making:** Gartner predicts that by 2028, at least 15% of day-to-day work decisions will be made autonomously by agentic AI, a significant increase from 0% in 2024. This will enhance situational awareness and accelerate data analysis and prediction [Gartner, 2024] [Quality Rating: A] [Reputable research firm]
+
